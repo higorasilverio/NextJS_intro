@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Hello, I'm Higor Silvério.</p>
         <p>
-          I like to thing that I am the most promissing software developer in
+          I'd like to think that I am the most promissing software developer in
           the world!
         </p>
         <p>
